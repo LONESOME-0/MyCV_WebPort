@@ -3,7 +3,7 @@ import React from 'react'
 const Layout = ({children}) => {
   return (
     <>
-    <div className="flex h-screen"> {children} </div> 
+    <div className="flex bg-neutral-800"> {children} </div> 
     </>
   )
 }
