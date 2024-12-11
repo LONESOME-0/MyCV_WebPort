@@ -4,7 +4,7 @@ function HeroRight() {
   return (
     <div className=" flex w-2/3 bg-neutral-800 text-white items-center justify-center ">
      <div>
-      <div className='flex text-xl '>Web Devaloper</div>
+      <div className='flex text-xl '>Web Developer</div>
       <div className='flex text-5xl py-4'>Werapat Rommalee</div>  
       <div className='text-xl'>
         Hello,You can call me Phat. Nice to meet you! I'm based<br/>
