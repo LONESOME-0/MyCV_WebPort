@@ -3,11 +3,11 @@ import React from 'react'
 
 function ImgME() {
   return (
-    <div> 
+    <div className='absolute left-[33%] transform -translate-x-1/2  '> 
         <img 
         src='/public/Img/WerapatImg.jpg' 
         alt='ImgWerapat'
-        className='w-[500px] h-auto object-cover '
+        className=' object-cover rounded-full size-[400px]  '
         />
     </div>
   )

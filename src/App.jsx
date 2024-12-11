@@ -8,8 +8,8 @@ function App() {
   return (
     <Layout>
       <HeroLeft/>
-      <HeroRight/>
       <ImgME/>
+      <HeroRight/>
     </Layout>     
   );
 }
