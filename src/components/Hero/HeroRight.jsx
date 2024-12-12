@@ -21,8 +21,8 @@ function HeroRight() {
       </div>
       <br/>
       <div className='text-xl'>
-       <span>Contact Tel: 092-053-9143 </span>
-       <span>Email: werapat_rom@gmail.com</span>
+       <span>Tel: 092-053-9143 </span>
+       <span>Email: werapat.rom@gmail.com</span>
     </div>
       </div>
     </div>
