@@ -3,7 +3,7 @@ import React from 'react'
 const Layout = ({children}) => {
   return (
     <>
-    <div className="flex bg-neutral-800 relative items-center"> {children} </div> 
+    <div className="flex flex-col bg-neutral-800 h-screen relative xl:items-center xl:flex-row"> {children} </div> 
     </>
   )
 }
