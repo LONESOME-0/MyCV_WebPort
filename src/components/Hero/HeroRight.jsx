@@ -23,8 +23,6 @@ function HeroRight() {
       <div className='text-xl'>
        <span>Tel: 092-053-9143 </span>
        <span>Email: werapat.rom@gmail.com</span>
-
-       <span>Email: werapat.rom@gmail.com</span>
     </div>
       </div>
     </div>
